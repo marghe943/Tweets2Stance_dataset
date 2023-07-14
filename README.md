@@ -16,4 +16,15 @@ Each dataset is saved into a `.pkl` file that you can open through the `load_pic
 
 Tweets were downloaded using the Twitter API V2.0, then refer to [the documentation](https://developer.twitter.com/en/docs/twitter-api/data-dictionary/object-model/tweet) for further info about the `referenced_tweets` field. In our study, we used every type of tweet.
 
+The `dict_ground_of_truth_VAA_Italy_2019.pkl` file contains the ground of truth for each political party and socio-political sentence. The mapping is the following:
+
+|Stance|Value|
+|------|-----|
+|Completely Disagree | 1 |
+|Disagree | 2 |
+|Neither Disagree, Nor Agree | 3 |
+|Agree| 4 |
+|Completely Agree | 5|
+
+
 If you have any trouble or question, please let me know at `m.gambini@iit.cnr.it`
