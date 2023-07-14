@@ -1,4 +1,5 @@
 # Tweets2Stance_dataset
+This dataset refers to [Tweets2Stance: Users stance detection exploiting Zero-Shot Learning Algorithms on Tweets](https://arxiv.org/abs/2204.10710)
 Raw datasets D<sub>i</sub> used for Tweets2Stance (Italian Political Elections May 26, 2019). D<sub>i</sub> contains _i_ months of tweets
 
 |            | D<sub>3</sub>            |      D<sub>4</sub>       |      D<sub>5</sub>       |      D<sub>7</sub>       |
